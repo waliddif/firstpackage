@@ -11,3 +11,5 @@ LazyData: TRUE
 RoxygenNote: 5.0.1
 Suggests: testthat, knitr, rmarkdown
 VignetteBuilder: knitr
+URL: http://github.com/waliddif/firstpackage
+BugReports: http://github.com/waliddif/firstpackage/issues
